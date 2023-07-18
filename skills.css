@@ -1,0 +1,38 @@
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+hr{
+  border:5px;
+}
+/* Fifth section */
+img {
+  border-radius: 50%;
+}
+
+td {
+  font-size: 20px;
+}
+.column:hover img {
+  transform: scale(1.5);
+}
+.skills {
+  text-align: right;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: white;
+}
+.dbms {width: 90%; background-color: #04aa6d7d;}
+.html {width: 90%; background-color: #7e404a78;}
+.php {width: 85%; background-color: #3b7dd23a;}
+.css {width: 80%; background-color: #2ff32198;}
+.men {width: 80%; background-color: #d7a91e;}
+.office {width: 80%; background-color: #f44336;}
+.py {width: 90%; background-color: #04AA6D;}
+.c {width: 88%; background-color: #407e43;}
+.java {width: 85%; background-color: #3b7cd2;}
+.dsa {width: 80%; background-color: #f321284f;}
+.sql {width: 80%; background-color: #04AA6D;}
+.be {width: 80%; background-color: #f44336;}
